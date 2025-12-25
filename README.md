@@ -4,7 +4,9 @@ A small CPU path tracer that renders a Cornell Box–style scene to a **PPM** im
 
 This project is intentionally minimal: everything lives in a single file, [`pathtracer.cpp`](pathtracer.cpp).
 
-![`result`](./cornell_box_ggx_pt.ppm)
+## Result
+
+![`result`](./cornell_box_ggx_pt.png)
 
 ## Features
 
